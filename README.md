@@ -1,0 +1,1 @@
+# fresh-nuxt-app
